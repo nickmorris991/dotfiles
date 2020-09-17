@@ -102,6 +102,7 @@ alias gs="git status"
 alias ga="git add ."
 alias python="python3"
 alias python2="python"
+alias pip="pip3"
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
